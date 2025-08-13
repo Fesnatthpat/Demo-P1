@@ -18,5 +18,8 @@
   },
   "devDependencies": {
     "daisyui": "^5.0.50"
+  },
+  "engines": {
+    "node": ">=18.16.0 < 20.0.0"
   }
 }
